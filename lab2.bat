@@ -1,5 +1,7 @@
 @echo off
 
+rem je fais un changement aujourd'hui 
+
 
 
 rem this for the creation of folders python, oracle, html
